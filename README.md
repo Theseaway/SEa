@@ -1,4 +1,1 @@
-# SEa
-图像处理，自适应中值滤波处理：
-主要适用方面：
-清除“椒盐”类的噪声。
+New travel in code world!
